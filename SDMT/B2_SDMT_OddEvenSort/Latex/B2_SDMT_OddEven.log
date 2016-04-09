@@ -1,0 +1,303 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  5 APR 2016 15:27
+entering extended mode
+**B2_SDMT_OddEven.tex
+(B2_SDMT_OddEven.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(B2_SDMT_OddEven.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 31.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<oddEven.png, id=1, 254.9525pt x 123.46124pt>
+File: oddEven.png Graphic file (type png)
+ <use oddEven.png>
+Package pdftex.def Info: oddEven.png used on input line 39.
+(pdftex.def)             Requested size: 127.47592pt x 61.73045pt.
+
+<oddevencoll.png, id=2, 398.99063pt x 235.63031pt>
+File: oddevencoll.png Graphic file (type png)
+ <use oddevencoll.png>
+Package pdftex.def Info: oddevencoll.png used on input line 44.
+(pdftex.def)             Requested size: 199.49483pt x 117.81487pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./oddEven.png>]
+<odd-even-activity.png, id=12, 237.88875pt x 385.44pt>
+File: odd-even-activity.png Graphic file (type png)
+
+<use odd-even-activity.png>
+Package pdftex.def Info: odd-even-activity.png used on input line 52.
+(pdftex.def)             Requested size: 118.94408pt x 192.71953pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+[2 <./oddevencoll.png> <./odd-even-activity.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+<response.JPG, id=18, 444.15938pt x 217.5628pt>
+File: response.JPG Graphic file (type jpg)
+ <use response.JPG>
+Package pdftex.def Info: response.JPG used on input line 108.
+(pdftex.def)             Requested size: 222.07913pt x 108.78113pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [4 <./response.JPG>] <testcase.png, id=25, 1248.665pt x 154.5775pt>
+File: testcase.png Graphic file (type png)
+
+<use testcase.png>
+Package pdftex.def Info: testcase.png used on input line 165.
+(pdftex.def)             Requested size: 390.0pt x 48.27939pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+
+ []
+
+[5 <./testcase.png>]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 205.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 205.
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+
+ []
+
+[7]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 316.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 316.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 316.
+
+Overfull \hbox (86.7334pt too wide) in paragraph at lines 316--320
+ [] 
+ []
+
+<b2_oddeven.png, id=37, 1028.34187pt x 578.16pt>
+File: b2_oddeven.png Graphic file (type png)
+ <use b2_oddeven.png>
+Package pdftex.def Info: b2_oddeven.png used on input line 326.
+(pdftex.def)             Requested size: 822.67462pt x 462.52863pt.
+
+Overfull \hbox (432.67462pt too wide) in paragraph at lines 326--327
+ [][] 
+ []
+
+[8] [9 <./b2_oddeven.png>] (B2_SDMT_OddEven.aux) ) 
+Here is how much of TeX's memory you used:
+ 1199 strings out of 493698
+ 15836 string characters out of 3144394
+ 71134 words of memory out of 3000000
+ 4554 multiletter control sequences out of 15000+200000
+ 8495 words of font info for 30 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,7n,19p,662b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+>
+Output written on B2_SDMT_OddEven.pdf (9 pages, 267330 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,78 @@
+		
+\subsection{Booth's Algorithm flow chart}
+		\begin{figure}[h!]
+			\centering
+			{\includegraphics[scale=0.450]{booth}
+			%\caption{Booth's Multiplication Flowchart}
+			%\label{Booth's Multiplication Flowchart}
+			\hfill
+			{\includegraphics[scale = 0.4500]{boothex}}
+			%\caption{ Multiplication (7*3) using Booths Algorithm}
+			%\label{Booth's Multiplication Flowchart}
+		\end{figure}
+\newpage
+
+\subsection{Dynamic programming}
+		\paragraph{} Dynamic programming is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions - ideally, using a memory-based data structure. The next time the same subproblem occurs, instead of recomputing its solution, one simply looks up the previously computed solution, thereby saving computation time at the expense of a (hopefully) modest expenditure in storage space. (Each of the subproblem solutions is indexed in some way, typically based on the values of its input parameters, so as to facilitate its lookup.) The technique of storing solutions to subproblems instead of recomputing them is called "memoization"
+		\paragraph{} Dynamic programming algorithms are used for optimization (for example, finding the shortest path between two points, or the fastest way to multiply many matrices). A dynamic programming algorithm will examine the previously solved subproblems and will combine their solutions to give the best solution for the given problem. The alternatives are many, such as using a greedy algorithm, which picks the locally optimal choice at each branch in the road. The locally optimal choice may be a poor choice for the overall solution. While a greedy algorithm does not guarantee an optimal solution, it is often faster to calculate. Fortunately, some greedy algorithms (such as minimum spanning trees) are proven to lead to the optimal solution.
+		
+\subsection{Servlet}
+\paragraph{}Java Servlets are programs that run on a Web or Application server and act as a middle layer between a request
+coming from a Web browser or other HTTP client and databases or applications on the HTTP server.Using
+Servlets, you can collect input from users through web page forms, present records from a database or another
+source, and create web pages dynamically.
+	
+\begin{figure}[h!]
+  \centering
+  {\includegraphics [scale=0.35] {servlet.png}}
+  \quad
+  {\includegraphics[scale=0.426]{servlet2.png}}
+  \caption{Client Server architecture}
+\end{figure}
+
+\newpage
+
+\section{Object oriented modelling}
+\subsection{Use Case Diagram}
+
+\begin{figure}[h!]
+			\centering
+			\includegraphics[scale=0.75]{usecase}
+			\caption{Use case diagram}
+			\label{Use case diagram}
+		\end{figure}
+
+\subsection{Activity Diagram}
+
+\begin{figure}[h!]
+			\centering
+			\includegraphics[scale=0.80]{activity}
+			\caption{Activity diagram}
+			\label{Activity diagram}
+		\end{figure}
+
+
+\subsection{Class Diagram}
+
+\begin{figure}[h!]
+			\centering
+			\includegraphics[scale=0.80]{class}
+			\caption{Class diagram}
+			\label{Class diagram}
+		\end{figure}
+
+
+\section{Conclusion}
+	\paragraph{} From this experiment, we have successfully ,used A Web Tool for Booth’s multiplication algorithm is used to multiply two numbers located in distributed environment. Use software design client-server architecture and principles for dynamic programming.
+\vspace{20px}
+\begin{center}
+	\begin{tabular}
+		{|c|c|c|c|}\hline
+		{\bf Roll No.}		&{\bf Name of Student}		&{\bf Date of Performance}  				&{\bf Date of Submission}  \\ \hline
+		{224}	&	{Aakash Narayane}& 		&  \\ \hline
+	\end{tabular}\\ 
+\end{center}
+
+
+\end{document}
+ 

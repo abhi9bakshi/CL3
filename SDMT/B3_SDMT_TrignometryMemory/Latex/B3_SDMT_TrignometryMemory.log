@@ -1,0 +1,261 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  5 APR 2016 15:27
+entering extended mode
+**B3_SDMT_TrignometryMemory.tex
+(B3_SDMT_TrignometryMemory.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(B3_SDMT_TrignometryMemory.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 31.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<calculator.png, id=1, 699.61375pt x 296.10625pt>
+File: calculator.png Graphic file (type png)
+ <use calculator.png>
+Package pdftex.def Info: calculator.png used on input line 39.
+(pdftex.def)             Requested size: 349.80602pt x 148.05275pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<usecase.png, id=11, 484.05844pt x 322.20375pt>
+File: usecase.png Graphic file (type png)
+ <use usecase.png>
+Package pdftex.def Info: usecase.png used on input line 48.
+(pdftex.def)             Requested size: 242.02863pt x 161.10147pt.
+
+<calcseq.jpg, id=13, 313.17pt x 379.22322pt>
+File: calcseq.jpg Graphic file (type jpg)
+ <use calcseq.jpg>
+Package pdftex.def Info: calcseq.jpg used on input line 54.
+(pdftex.def)             Requested size: 156.58461pt x 189.61115pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+[2 <./calculator.png> <./usecase.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+[3 <./calcseq.jpg>]
+Missing character: There is no ï in font cmr12!
+Missing character: There is no ¿ in font cmr12!
+Missing character: There is no ½ in font cmr12!
+Missing character: There is no ï in font cmr12!
+Missing character: There is no ¿ in font cmr12!
+Missing character: There is no ½ in font cmr12!
+ [4]
+Missing character: There is no ï in font cmr12!
+Missing character: There is no ¿ in font cmr12!
+Missing character: There is no ½ in font cmr12!
+ [5] [6] <testcase1.png, id=30, 445.665pt x 384.6872pt>
+File: testcase1.png Graphic file (type png)
+
+<use testcase1.png>
+Package pdftex.def Info: testcase1.png used on input line 156.
+(pdftex.def)             Requested size: 222.83195pt x 192.34312pt.
+ <testcase2.png, id=31, 431.36156pt x 322.20375pt>
+File: testcase2.png Graphic file (type png)
+
+<use testcase2.png>
+Package pdftex.def Info: testcase2.png used on input line 165.
+(pdftex.def)             Requested size: 215.68025pt x 161.10147pt.
+ [7 <./testcase1.png> <./testcase2.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 198.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 198.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 198.
+
+Overfull \hbox (86.7334pt too wide) in paragraph at lines 198--202
+ [] 
+ []
+
+<Trig.png, id=36, 822.07124pt x 617.30624pt>
+File: Trig.png Graphic file (type png)
+ <use Trig.png>
+Package pdftex.def Info: Trig.png used on input line 208.
+(pdftex.def)             Requested size: 657.65788pt x 493.84566pt.
+
+Overfull \hbox (267.65788pt too wide) in paragraph at lines 208--209
+ [][] 
+ []
+
+[8] [9 <./Trig.png>] (B3_SDMT_TrignometryMemory.aux) ) 
+Here is how much of TeX's memory you used:
+ 1183 strings out of 493698
+ 15588 string characters out of 3144394
+ 71134 words of memory out of 3000000
+ 4541 multiletter control sequences out of 15000+200000
+ 8495 words of font info for 30 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,7n,19p,561b,280s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb>
+Output written on B3_SDMT_TrignometryMemory.pdf (9 pages, 257910 bytes).
+PDF statistics:
+ 60 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

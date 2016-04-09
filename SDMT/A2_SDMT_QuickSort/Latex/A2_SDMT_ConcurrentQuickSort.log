@@ -1,0 +1,317 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  6 APR 2016 09:41
+entering extended mode
+**A2_SDMT_ConcurrentQuickSort.tex
+(A2_SDMT_ConcurrentQuickSort.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(A2_SDMT_ConcurrentQuickSort.aux
+
+LaTeX Warning: Label `Flow Graph' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen110
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks17
+)
+\c@lstlisting=\count102
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 76.
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--107
+
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
+
+ []
+
+[4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 174.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 174.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 174.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
+
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 186.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 186.
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--251
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 254--262
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 267--285
+
+ []
+
+[8] <graph.png, id=35, 370.38374pt x 219.06844pt>
+File: graph.png Graphic file (type png)
+ <use graph.png>
+Package pdftex.def Info: graph.png used on input line 289.
+(pdftex.def)             Requested size: 296.30739pt x 175.25497pt.
+
+<flowgraph.png, id=37, 552.0625pt x 442.65375pt>
+File: flowgraph.png Graphic file (type png)
+ <use flowgraph.png>
+Package pdftex.def Info: flowgraph.png used on input line 296.
+(pdftex.def)             Requested size: 276.03056pt x 221.32632pt.
+ [9 <./graph.png> <./flowgraph.png (PNG copy)>]
+<quick-sort-class.png, id=42, 252.19218pt x 88.07906pt>
+File: quick-sort-class.png Graphic file (type png)
+
+<use quick-sort-class.png>
+Package pdftex.def Info: quick-sort-class.png used on input line 305.
+(pdftex.def)             Requested size: 201.75401pt x 70.46332pt.
+
+<quick-sort-use.png, id=43, 400.49625pt x 242.40562pt>
+File: quick-sort-use.png Graphic file (type png)
+
+<use quick-sort-use.png>
+Package pdftex.def Info: quick-sort-use.png used on input line 313.
+(pdftex.def)             Requested size: 320.39743pt x 193.92474pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--350
+
+ []
+
+[10 <./quick-sort-class.png> <./quick-sort-use.png>] [11]
+<quicksort_positive.png, id=52, 584.93532pt x 240.14719pt>
+File: quicksort_positive.png Graphic file (type png)
+
+<use quicksort_positive.png>
+Package pdftex.def Info: quicksort_positive.png used on input line 353.
+(pdftex.def)             Requested size: 390.0pt x 160.12091pt.
+
+<quicksort_negative.png, id=53, 582.67688pt x 220.57407pt>
+File: quicksort_negative.png Graphic file (type png)
+
+<use quicksort_negative.png>
+Package pdftex.def Info: quicksort_negative.png used on input line 357.
+(pdftex.def)             Requested size: 390.0pt x 147.63911pt.
+
+Overfull \hbox (45.4834pt too wide) in paragraph at lines 365--369
+ [] 
+ []
+
+[12 <./quicksort_positive.png> <./quicksort_negative.png>]
+<Quick_Sort_Plag.png, id=57, 505.13719pt x 510.40688pt>
+File: Quick_Sort_Plag.png Graphic file (type png)
+
+<use Quick_Sort_Plag.png>
+Package pdftex.def Info: Quick_Sort_Plag.png used on input line 375.
+(pdftex.def)             Requested size: 404.1103pt x 408.32605pt.
+
+Overfull \hbox (14.1103pt too wide) in paragraph at lines 375--376
+ [][] 
+ []
+
+[13 <./Quick_Sort_Plag.png>] (A2_SDMT_ConcurrentQuickSort.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 95 ({)
+### simple group (level 1) entered at line 94 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 2547 strings out of 493698
+ 35709 string characters out of 3144394
+ 130394 words of memory out of 3000000
+ 5882 multiletter control sequences out of 15000+200000
+ 10010 words of font info for 35 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,49p,705b,1294s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+sy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmti12.pfb>
+Output written on A2_SDMT_ConcurrentQuickSort.pdf (13 pages, 522169 bytes).
+PDF statistics:
+ 89 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

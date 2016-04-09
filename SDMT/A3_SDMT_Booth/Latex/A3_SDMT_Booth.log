@@ -1,0 +1,290 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  5 APR 2016 15:27
+entering extended mode
+**A3_SDMT_Booth.tex
+(A3_SDMT_Booth.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+\c@KVtest=\count89
+\sf@farskip=\skip43
+\sf@captopadj=\dimen112
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count90
+\c@subfigure@save=\count91
+\c@lofdepth=\count92
+\c@subtable=\count93
+\c@subtable@save=\count94
+\c@lotdepth=\count95
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+(A3_SDMT_Booth.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen114
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks16
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--88
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<images.png, id=10, 291.0875pt x 174.6525pt>
+File: images.png Graphic file (type png)
+ <use images.png>
+Package pdftex.def Info: images.png used on input line 97.
+(pdftex.def)             Requested size: 291.08678pt x 174.65207pt.
+ [2]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no œ in font cmr12!
+
+<booth.png, id=14, 300.3722pt x 375.65344pt>
+File: booth.png Graphic file (type png)
+ <use booth.png>
+Package pdftex.def Info: booth.png used on input line 112.
+(pdftex.def)             Requested size: 180.22469pt x 225.3938pt.
+ [3 <./images.png>] <boothex.png, id=19, 426.84468pt x 237.13594pt>
+File: boothex.png Graphic file (type png)
+ <use boothex.png>
+Package pdftex.def Info: boothex.png used on input line 121.
+(pdftex.def)             Requested size: 256.10878pt x 142.28265pt.
+ [4 <./booth.png> <./boothex.png>] [5] <servlet.png, id=26, 465.23813pt x 420.0
+6938pt>
+File: servlet.png Graphic file (type png)
+
+<use servlet.png>
+Package pdftex.def Info: servlet.png used on input line 141.
+(pdftex.def)             Requested size: 232.61848pt x 210.03418pt.
+ <servlet2.png, id=27, 200.24812pt x 353.06906pt>
+File: servlet2.png Graphic file (type png)
+
+<use servlet2.png>
+Package pdftex.def Info: servlet2.png used on input line 143.
+(pdftex.def)             Requested size: 120.1498pt x 211.84306pt.
+ <usecase.png, id=28, 538.26094pt x 245.41687pt>
+File: usecase.png Graphic file (type png)
+
+<use usecase.png>
+Package pdftex.def Info: usecase.png used on input line 152.
+(pdftex.def)             Requested size: 430.60934pt x 196.33376pt.
+
+Overfull \hbox (40.60934pt too wide) in paragraph at lines 152--153
+ [][] 
+ []
+
+[6 <./servlet.png> <./servlet2.png> <./usecase.png>]
+<activity.png, id=32, 238.64156pt x 261.97874pt>
+File: activity.png Graphic file (type png)
+ <use activity.png>
+Package pdftex.def Info: activity.png used on input line 163.
+(pdftex.def)             Requested size: 226.70818pt x 248.87839pt.
+
+<class.png, id=33, 490.83376pt x 185.19188pt>
+File: class.png Graphic file (type png)
+ <use class.png>
+Package pdftex.def Info: class.png used on input line 173.
+(pdftex.def)             Requested size: 466.28941pt x 175.93126pt.
+
+Overfull \hbox (76.28941pt too wide) in paragraph at lines 173--174
+ [][] 
+ []
+
+[7 <./activity.png> <./class.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 182--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--213
+
+ []
+
+[8] <CFG.png, id=41, 552.0625pt x 442.65375pt>
+File: CFG.png Graphic file (type png)
+ <use CFG.png>
+Package pdftex.def Info: CFG.png used on input line 216.
+(pdftex.def)             Requested size: 248.42583pt x 199.19234pt.
+
+<booth_whitebox.png, id=42, 599.99156pt x 340.27126pt>
+File: booth_whitebox.png Graphic file (type png)
+
+<use booth_whitebox.png>
+Package pdftex.def Info: booth_whitebox.png used on input line 220.
+(pdftex.def)             Requested size: 390.0pt x 221.18407pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 220--221
+[][] 
+ []
+
+[9 <./CFG.png (PNG copy)>]
+<booth_positive.png, id=46, 596.2275pt x 112.92188pt>
+File: booth_positive.png Graphic file (type png)
+ <use booth_positive.png>
+Package pdftex.def Info: booth_positive.png used on input line 225.
+(pdftex.def)             Requested size: 390.0pt x 73.86356pt.
+
+<booth_negative.png, id=47, 603.0028pt x 94.85437pt>
+File: booth_negative.png Graphic file (type png)
+ <use booth_negative.png>
+Package pdftex.def Info: booth_negative.png used on input line 229.
+(pdftex.def)             Requested size: 390.0pt x 61.34775pt.
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no ¢ in font cmr12!
+
+[10 <./booth_whitebox.png> <./booth_positive.png> <./booth_negative.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 237.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 237.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 237.
+
+Overfull \hbox (45.4834pt too wide) in paragraph at lines 237--241
+ [] 
+ []
+
+[11] (A3_SDMT_Booth.aux) ) 
+Here is how much of TeX's memory you used:
+ 2411 strings out of 493698
+ 37335 string characters out of 3144394
+ 99305 words of memory out of 3000000
+ 5754 multiletter control sequences out of 15000+200000
+ 9408 words of font info for 33 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 44i,6n,42p,974b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on A3_SDMT_Booth.pdf (11 pages, 727154 bytes).
+PDF statistics:
+ 71 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,224 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.28)  6 APR 2016 03:40
+entering extended mode
+**B6_CS_DSA.tex
+(B6_CS_DSA.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(B6_CS_DSA.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--97
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 108.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (64.17451pt too wide) in paragraph at lines 110--111
+[]\OT1/pcr/m/n/12 Choose a prime number q, which is called the prime divisor. 
+ []
+
+
+Overfull \hbox (6.57454pt too wide) in paragraph at lines 111--112
+[]\OT1/pcr/m/n/12 Choose another primer number p, such that p-1 mod q
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 112.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 112.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 112.
+Missing character: There is no â in font cmr8!
+Missing character: There is no € in font cmr8!
+Missing character: There is no “ in font cmr8!
+
+Overfull \hbox (10.01343pt too wide) in paragraph at lines 112--113
+[]\OT1/pcr/m/n/12 Choose an integer g, such that 1 < g < p, $\OML/cmm/m/it/12 g
+[]$ \OT1/pcr/m/n/12 mod p =
+ []
+
+
+Overfull \hbox (46.94493pt too wide) in paragraph at lines 112--113
+\OT1/pcr/m/n/12 1 and g = $\OML/cmm/m/it/12 h[]modp$\OT1/pcr/m/n/12 . q is also
+ called g's multiplicative
+ []
+
+
+Overfull \hbox (20.97453pt too wide) in paragraph at lines 113--115
+[]\OT1/pcr/m/n/12 Choose an integer, such that 0 < x < q. Compute y as
+ []
+
+
+Overfull \hbox (35.37453pt too wide) in paragraph at lines 115--117
+[]\OT1/pcr/m/n/12 Package the public key as p,q,g,y. Package the private
+ []
+
+<dsa.jpg, id=13, 690.32906pt x 386.19281pt>
+File: dsa.jpg Graphic file (type jpg)
+ <use dsa.jpg>
+Package pdftex.def Info: dsa.jpg used on input line 121.
+(pdftex.def)             Requested size: 390.0pt x 218.18166pt.
+
+Overfull \hbox (20.97453pt too wide) in paragraph at lines 131--132
+[]\OT1/pcr/m/n/12 Generate the message digest h, using a hash algorithm
+ []
+
+[3]
+Overfull \hbox (68.17035pt too wide) in paragraph at lines 133--134
+[]\OT1/pcr/m/n/12 Compute r as ($\OML/cmm/m/it/12 g[]$ \OT1/pcr/m/n/12 mod p) m
+od q. If r = 0, select a different
+ []
+
+
+Overfull \hbox (13.77454pt too wide) in paragraph at lines 134--135
+[]\OT1/pcr/m/n/12 Compute i, such that k*i mod q = 1. i is called the
+ []
+
+
+Overfull \hbox (56.97452pt too wide) in paragraph at lines 135--136
+[]\OT1/pcr/m/n/12 Compute s = i*(h+r*x) mod q. If s = 0, select a different
+ []
+
+[4 <./dsa.jpg>]
+Overfull \hbox (78.57451pt too wide) in paragraph at lines 164--165
+[]\OT1/pcr/m/n/12 Generate the message digest h, using the same hash algorithm.
+ 
+ []
+
+
+Overfull \hbox (13.77454pt too wide) in paragraph at lines 165--166
+[]\OT1/pcr/m/n/12 Compute w, such that s*w mod q = 1. w is called the
+ []
+
+
+Overfull \hbox (45.4834pt too wide) in paragraph at lines 178--182
+ [] 
+ []
+
+<dsapl.png, id=25, 599.23875pt x 322.95656pt>
+File: dsapl.png Graphic file (type png)
+ <use dsapl.png>
+Package pdftex.def Info: dsapl.png used on input line 186.
+(pdftex.def)             Requested size: 390.0pt x 210.1903pt.
+ [5] [6 <./dsapl.png>] (B6_CS_DSA.aux) ) 
+Here is how much of TeX's memory you used:
+ 1203 strings out of 493698
+ 15667 string characters out of 3144394
+ 71126 words of memory out of 3000000
+ 4558 multiletter control sequences out of 15000+200000
+ 9785 words of font info for 35 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,19p,534b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/
+dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/u
+crr8a.pfb>
+Output written on B6_CS_DSA.pdf (6 pages, 275807 bytes).
+PDF statistics:
+ 66 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

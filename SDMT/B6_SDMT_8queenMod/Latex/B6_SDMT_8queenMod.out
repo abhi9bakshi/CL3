@@ -1,0 +1,11 @@
+\BOOKMARK [3][-]{section*.1}{S= \173s, e, X, Y, Fme, DD, NDD, Mem shared\175}{}% 1
+\BOOKMARK [3][-]{section*.2}{Where,}{}% 2
+\BOOKMARK [3][-]{section*.3}{s = Initial State}{}% 3
+\BOOKMARK [3][-]{section*.4}{e = End State}{}% 4
+\BOOKMARK [3][-]{section*.5}{X = Input. Here it is map size, start point}{}% 5
+\BOOKMARK [3][-]{section*.6}{Y = Output. Here output is time required to generate route, actual route \040 and map.}{}% 6
+\BOOKMARK [3][-]{section*.7}{Fme = Algorithm/Function used in program. }{}% 7
+\BOOKMARK [3][-]{section*.8}{For e.g. placequeen\(\) etc.}{}% 8
+\BOOKMARK [3][-]{section*.9}{DD=Deterministic Data}{}% 9
+\BOOKMARK [3][-]{section*.10}{NDD=Non deterministic Data}{}% 10
+\BOOKMARK [3][-]{section*.11}{Mem shared=Memory shared by processor.}{}% 11
